@@ -1,0 +1,27 @@
+Paletton: https://paletton.com/#uid=12W0u0kmjkVbZvdhupOryfKyjap
+
+Ideas:
+ - Bees with lasers ;)
+ - Auto collection bot
+ - Eagle goes nom nom :)
+ - Flower color variants
+     
+ToDo:
+	Game:		
+		- Uneven textures (rough materials)
+		- Menu Scaling (MainMenu text)
+		- Key Rebinding		
+		- MultiFieldEntities
+		- Mumblebee collision		
+		- Add more Flowers etc. (Terrain details)
+		
+		
+		
+Done:
+
+ - Respawn nectar
+		
+		
+		
+ 
+ 
