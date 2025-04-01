@@ -1,27 +1,51 @@
-Paletton: https://paletton.com/#uid=12W0u0kmjkVbZvdhupOryfKyjap
+Color codes:
+----------------------------------
+ - Text: 
+ - Button:  
 
+Credits:
+----------------------------------
+ - 
+
+Todo:
+---------------------------------- 
+  
+Bugs: 
+ - 
+ 
+Exceptions: 
+ - 
+ 
+Core:
+ - 
+   
+GamePlay:
+ - 
+ 
+UI: 
+ - 
+   
+Audio:
+ - 
+  
+Refactoring:
+----------------------------------
+ - 
+
+WIP:
+----------------------------------
+ -  
+
+Nice to have:
+----------------------------------
+ - 
+ 
+ 
 Ideas:
- - Bees with lasers ;)
- - Auto collection bot
- - Eagle goes nom nom :)
- - Flower color variants
-     
-ToDo:
-	Game:		
-		- Uneven textures (rough materials)
-		- Menu Scaling (MainMenu text)
-		- Key Rebinding		
-		- MultiFieldEntities
-		- Mumblebee collision		
-		- Add more Flowers etc. (Terrain details)
-		
-		
-		
-Done:
-
- - Respawn nectar
-		
-		
-		
+----------------------------------
+ -  
  
  
+Delivery Items:
+----------------------------------
+ - 
